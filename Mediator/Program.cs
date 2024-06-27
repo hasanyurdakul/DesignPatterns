@@ -25,3 +25,4 @@ chatMediator.AddUser(user2);
 chatMediator.AddUser(user3);
 
 user1.Send("Hello from User1");
+
